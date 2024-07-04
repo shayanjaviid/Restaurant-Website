@@ -6,7 +6,7 @@ This repository showcases a restaurant website project designed to provide users
 **Features:**
 
 - **Menu:** Browse through our diverse menu offerings categorized into appetizers, main courses, desserts, and beverages.
-- **Chefs:** Meet our talented chefs and read about their culinary backgrounds and specialties.
+- **Chefs:** Meet our talented chefs and read about their culinary backgrounds and specialities.
 - **Reservation:** Easily book a table online with our reservation form.
 - **Details:** Find essential information such as operating hours, location, and contact details.
 
@@ -24,13 +24,13 @@ This repository showcases a restaurant website project designed to provide users
 
 Creating an effective restaurant website involves more than just showcasing menu items and contact details. Here are key elements that make a restaurant website stand out:
 
-- **Visually Appealing Design:** Engage users with high-quality images of dishes and an aesthetically pleasing layout that reflects your restaurant's ambiance.
+- **Visually Appealing Design:** Engage users with high-quality images of dishes and an aesthetically pleasing layout that reflects your restaurant's ambience.
   
 - **User-Friendly Navigation:** Ensure intuitive navigation so users can easily find information like menus, reservations, and chef profiles.
   
 - **Mobile Responsiveness:** Optimize the website for mobile devices to cater to on-the-go users searching for dining options.
   
-- **SEO Optimization:** Enhance visibility by incorporating relevant keywords, local SEO strategies, and integrating with social media platforms.
+- **SEO Optimization:** Enhance visibility by incorporating relevant keywords, local SEO strategies and integrating with social media platforms.
 
 **Screenshots:**
 ![1](https://github.com/shayanjaviid/Random-Characters-Program/assets/104303445/c3dec119-285f-489e-b10c-43964ece03a6)
